@@ -5,5 +5,6 @@ joblib
 streamlit
 requests
 pyngrok
-sklearn
+scikit-learn
 nest-asyncio
+
